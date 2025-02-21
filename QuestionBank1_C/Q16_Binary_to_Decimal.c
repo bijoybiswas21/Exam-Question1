@@ -2,6 +2,7 @@
 #include <math.h> 
 int main()  
 {  
+
     int i, bin_num, decimal_num = 0, rem;  
     bin_num = 111;
     for (i = 0; bin_num != 0; ++i)  
